@@ -43,7 +43,7 @@ For step 2, we want to login to Client-1 with Remote Desktop and execute a perpe
 <br />
 
 <p>
-<img src="https://i.imgur.com/U9U0J90.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XIYr6v2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
